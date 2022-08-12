@@ -1,0 +1,16 @@
+C:\Users\herma\RiderProjects\premier programme\bin\Debug\net5.0\premier programme.exe
+C:\Users\herma\RiderProjects\premier programme\bin\Debug\net5.0\premier programme.deps.json
+C:\Users\herma\RiderProjects\premier programme\bin\Debug\net5.0\premier programme.runtimeconfig.json
+C:\Users\herma\RiderProjects\premier programme\bin\Debug\net5.0\premier programme.runtimeconfig.dev.json
+C:\Users\herma\RiderProjects\premier programme\bin\Debug\net5.0\premier programme.dll
+C:\Users\herma\RiderProjects\premier programme\bin\Debug\net5.0\ref\premier programme.dll
+C:\Users\herma\RiderProjects\premier programme\bin\Debug\net5.0\premier programme.pdb
+C:\Users\herma\RiderProjects\premier programme\obj\Debug\net5.0\premier programme.csproj.AssemblyReference.cache
+C:\Users\herma\RiderProjects\premier programme\obj\Debug\net5.0\premier programme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herma\RiderProjects\premier programme\obj\Debug\net5.0\premier programme.AssemblyInfoInputs.cache
+C:\Users\herma\RiderProjects\premier programme\obj\Debug\net5.0\premier programme.AssemblyInfo.cs
+C:\Users\herma\RiderProjects\premier programme\obj\Debug\net5.0\premier programme.csproj.CoreCompileInputs.cache
+C:\Users\herma\RiderProjects\premier programme\obj\Debug\net5.0\premier programme.dll
+C:\Users\herma\RiderProjects\premier programme\obj\Debug\net5.0\ref\premier programme.dll
+C:\Users\herma\RiderProjects\premier programme\obj\Debug\net5.0\premier programme.pdb
+C:\Users\herma\RiderProjects\premier programme\obj\Debug\net5.0\premier programme.genruntimeconfig.cache

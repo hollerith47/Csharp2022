@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistances_des_donnees", "Persistances_des_donnees.csproj", "{77D6C755-05A7-473A-BF05-429068158698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77D6C755-05A7-473A-BF05-429068158698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D6C755-05A7-473A-BF05-429068158698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D6C755-05A7-473A-BF05-429068158698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D6C755-05A7-473A-BF05-429068158698}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

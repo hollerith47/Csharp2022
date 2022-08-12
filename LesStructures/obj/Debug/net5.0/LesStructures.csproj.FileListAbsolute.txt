@@ -1,0 +1,16 @@
+C:\Users\herma\Desktop\Learning\C#\LesStructures\bin\Debug\net5.0\LesStructures.exe
+C:\Users\herma\Desktop\Learning\C#\LesStructures\bin\Debug\net5.0\LesStructures.deps.json
+C:\Users\herma\Desktop\Learning\C#\LesStructures\bin\Debug\net5.0\LesStructures.runtimeconfig.json
+C:\Users\herma\Desktop\Learning\C#\LesStructures\bin\Debug\net5.0\LesStructures.runtimeconfig.dev.json
+C:\Users\herma\Desktop\Learning\C#\LesStructures\bin\Debug\net5.0\LesStructures.dll
+C:\Users\herma\Desktop\Learning\C#\LesStructures\bin\Debug\net5.0\ref\LesStructures.dll
+C:\Users\herma\Desktop\Learning\C#\LesStructures\bin\Debug\net5.0\LesStructures.pdb
+C:\Users\herma\Desktop\Learning\C#\LesStructures\obj\Debug\net5.0\LesStructures.csproj.AssemblyReference.cache
+C:\Users\herma\Desktop\Learning\C#\LesStructures\obj\Debug\net5.0\LesStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herma\Desktop\Learning\C#\LesStructures\obj\Debug\net5.0\LesStructures.AssemblyInfoInputs.cache
+C:\Users\herma\Desktop\Learning\C#\LesStructures\obj\Debug\net5.0\LesStructures.AssemblyInfo.cs
+C:\Users\herma\Desktop\Learning\C#\LesStructures\obj\Debug\net5.0\LesStructures.csproj.CoreCompileInputs.cache
+C:\Users\herma\Desktop\Learning\C#\LesStructures\obj\Debug\net5.0\LesStructures.dll
+C:\Users\herma\Desktop\Learning\C#\LesStructures\obj\Debug\net5.0\ref\LesStructures.dll
+C:\Users\herma\Desktop\Learning\C#\LesStructures\obj\Debug\net5.0\LesStructures.pdb
+C:\Users\herma\Desktop\Learning\C#\LesStructures\obj\Debug\net5.0\LesStructures.genruntimeconfig.cache

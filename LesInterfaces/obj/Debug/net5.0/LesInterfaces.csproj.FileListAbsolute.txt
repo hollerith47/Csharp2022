@@ -1,0 +1,16 @@
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\bin\Debug\net5.0\LesInterfaces.exe
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\bin\Debug\net5.0\LesInterfaces.deps.json
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\bin\Debug\net5.0\LesInterfaces.runtimeconfig.json
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\bin\Debug\net5.0\LesInterfaces.runtimeconfig.dev.json
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\bin\Debug\net5.0\LesInterfaces.dll
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\bin\Debug\net5.0\ref\LesInterfaces.dll
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\bin\Debug\net5.0\LesInterfaces.pdb
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\obj\Debug\net5.0\LesInterfaces.csproj.AssemblyReference.cache
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\obj\Debug\net5.0\LesInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\obj\Debug\net5.0\LesInterfaces.AssemblyInfoInputs.cache
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\obj\Debug\net5.0\LesInterfaces.AssemblyInfo.cs
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\obj\Debug\net5.0\LesInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\obj\Debug\net5.0\LesInterfaces.dll
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\obj\Debug\net5.0\ref\LesInterfaces.dll
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\obj\Debug\net5.0\LesInterfaces.pdb
+C:\Users\herma\Desktop\Learning\C#\LesInterfaces\obj\Debug\net5.0\LesInterfaces.genruntimeconfig.cache

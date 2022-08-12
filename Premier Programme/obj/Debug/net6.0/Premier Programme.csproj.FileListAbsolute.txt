@@ -1,0 +1,15 @@
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\bin\Debug\net6.0\Premier Programme.exe
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\bin\Debug\net6.0\Premier Programme.deps.json
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\bin\Debug\net6.0\Premier Programme.runtimeconfig.json
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\bin\Debug\net6.0\Premier Programme.dll
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\bin\Debug\net6.0\ref\Premier Programme.dll
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\bin\Debug\net6.0\Premier Programme.pdb
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\obj\Debug\net6.0\Premier Programme.csproj.AssemblyReference.cache
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\obj\Debug\net6.0\Premier Programme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\obj\Debug\net6.0\Premier Programme.AssemblyInfoInputs.cache
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\obj\Debug\net6.0\Premier Programme.AssemblyInfo.cs
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\obj\Debug\net6.0\Premier Programme.csproj.CoreCompileInputs.cache
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\obj\Debug\net6.0\Premier Programme.dll
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\obj\Debug\net6.0\ref\Premier Programme.dll
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\obj\Debug\net6.0\Premier Programme.pdb
+C:\Users\herma\Desktop\Learning\C#\Premier Programme\obj\Debug\net6.0\Premier Programme.genruntimeconfig.cache

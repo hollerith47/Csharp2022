@@ -1,0 +1,7 @@
+1ere ligne
+Ligne 2
+Herman Makiese avance en programmation
+il a commencé par html, css,
+il a foui Javascript pour se refugier chez python,
+mais la réalité là ramener chez JavaScript jusqu'au framework JS
+Maintenant il continue son aventure avec C#.

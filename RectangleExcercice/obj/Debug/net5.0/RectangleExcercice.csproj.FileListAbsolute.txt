@@ -1,0 +1,16 @@
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\bin\Debug\net5.0\RectangleExcercice.exe
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\bin\Debug\net5.0\RectangleExcercice.deps.json
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\bin\Debug\net5.0\RectangleExcercice.runtimeconfig.json
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\bin\Debug\net5.0\RectangleExcercice.runtimeconfig.dev.json
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\bin\Debug\net5.0\RectangleExcercice.dll
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\bin\Debug\net5.0\ref\RectangleExcercice.dll
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\bin\Debug\net5.0\RectangleExcercice.pdb
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\obj\Debug\net5.0\RectangleExcercice.csproj.AssemblyReference.cache
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\obj\Debug\net5.0\RectangleExcercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\obj\Debug\net5.0\RectangleExcercice.AssemblyInfoInputs.cache
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\obj\Debug\net5.0\RectangleExcercice.AssemblyInfo.cs
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\obj\Debug\net5.0\RectangleExcercice.csproj.CoreCompileInputs.cache
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\obj\Debug\net5.0\RectangleExcercice.dll
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\obj\Debug\net5.0\ref\RectangleExcercice.dll
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\obj\Debug\net5.0\RectangleExcercice.pdb
+C:\Users\herma\Desktop\Learning\C#\RectangleExcercice\obj\Debug\net5.0\RectangleExcercice.genruntimeconfig.cache

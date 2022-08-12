@@ -1,0 +1,16 @@
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\bin\Debug\net5.0\Serialisation_object_Json.exe
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\bin\Debug\net5.0\Serialisation_object_Json.deps.json
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\bin\Debug\net5.0\Serialisation_object_Json.runtimeconfig.json
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\bin\Debug\net5.0\Serialisation_object_Json.runtimeconfig.dev.json
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\bin\Debug\net5.0\Serialisation_object_Json.dll
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\bin\Debug\net5.0\ref\Serialisation_object_Json.dll
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\bin\Debug\net5.0\Serialisation_object_Json.pdb
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\obj\Debug\net5.0\Serialisation_object_Json.csproj.AssemblyReference.cache
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\obj\Debug\net5.0\Serialisation_object_Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\obj\Debug\net5.0\Serialisation_object_Json.AssemblyInfoInputs.cache
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\obj\Debug\net5.0\Serialisation_object_Json.AssemblyInfo.cs
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\obj\Debug\net5.0\Serialisation_object_Json.csproj.CoreCompileInputs.cache
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\obj\Debug\net5.0\Serialisation_object_Json.dll
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\obj\Debug\net5.0\ref\Serialisation_object_Json.dll
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\obj\Debug\net5.0\Serialisation_object_Json.pdb
+C:\Users\herma\Desktop\Learning\C#\Serialisation_object_Json\obj\Debug\net5.0\Serialisation_object_Json.genruntimeconfig.cache

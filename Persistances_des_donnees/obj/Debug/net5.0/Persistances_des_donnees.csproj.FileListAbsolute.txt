@@ -1,0 +1,16 @@
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\bin\Debug\net5.0\Persistances_des_donnees.exe
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\bin\Debug\net5.0\Persistances_des_donnees.deps.json
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\bin\Debug\net5.0\Persistances_des_donnees.runtimeconfig.json
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\bin\Debug\net5.0\Persistances_des_donnees.runtimeconfig.dev.json
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\bin\Debug\net5.0\Persistances_des_donnees.dll
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\bin\Debug\net5.0\ref\Persistances_des_donnees.dll
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\bin\Debug\net5.0\Persistances_des_donnees.pdb
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\obj\Debug\net5.0\Persistances_des_donnees.csproj.AssemblyReference.cache
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\obj\Debug\net5.0\Persistances_des_donnees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\obj\Debug\net5.0\Persistances_des_donnees.AssemblyInfoInputs.cache
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\obj\Debug\net5.0\Persistances_des_donnees.AssemblyInfo.cs
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\obj\Debug\net5.0\Persistances_des_donnees.csproj.CoreCompileInputs.cache
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\obj\Debug\net5.0\Persistances_des_donnees.dll
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\obj\Debug\net5.0\ref\Persistances_des_donnees.dll
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\obj\Debug\net5.0\Persistances_des_donnees.pdb
+C:\Users\herma\Desktop\Learning\C#\Persistances_des_donnees\obj\Debug\net5.0\Persistances_des_donnees.genruntimeconfig.cache
